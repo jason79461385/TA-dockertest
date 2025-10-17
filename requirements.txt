@@ -1,0 +1,6 @@
+Flask
+requests
+Flask-Cors
+duckduckgo-search
+beautifulsoup4
+lxml
