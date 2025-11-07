@@ -1,1 +1,1 @@
-Make sure you already installed Docker and install "phi3" in ollama
+Make sure you already installed Docker and install "llama3.2" in ollama
