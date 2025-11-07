@@ -31,7 +31,7 @@ def chat():
     請以友善且專業的語氣進行回覆。
     """
     prompt_final = prompt_base + user_data['prompt']
-    model = user_data.get('model', 'phi3')
+    model = user_data.get('model', 'llama3.2')
 
     try:
         payload = {
